@@ -35,6 +35,7 @@ body {
 /* Advice */
 .advice {
     width: 90%;
+    min-width: 300px;
     max-width: 450px;
     margin: 0 auto;
     padding: 2em 1.5em;
